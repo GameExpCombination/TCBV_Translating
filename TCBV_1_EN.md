@@ -82,40 +82,40 @@ We will use the changed interface on section 2 to introduce the details of this 
 
 ![assets/en_4_1.png](assets/en_4_1.png)
 
-Emmm…You can’t see any objects! But it isn’t a mistake. When opening Virtools every time, your location will be moved to the center of the virtual world on 3D Layout. However, not all the maps are located in the center. To find objects, you need to have a series of location-change operation. The icons on the left could be understood as a toolbar. Let’s analyze the usage of some common icons.
+Emmm … why is it nothing at all! But it isn’t a mistake. When opening Virtools every time, your location will be set to the center of the virtual world in 3D Layout. However, not all the maps are located in the center. To find objects, you need to have a series of location-change operations. The icons on the left could be understood as a toolbar. Let’s analyze the usa of some common icons.
 
 ![assets/en_4_2.png](assets/en_4_2.png)
 
 The following is a detailed description of some icons:
 
-![assets/en_4_3.png](assets/en_4_3.png) ：When selecting this icon, you could expand or shrink the view of 3D Layout by holding down the mouse. Totally speaking, you could find objects soon by this tool when editing unknown maps.
+![assets/en_4_3.png](assets/en_4_3.png) : When selecting this icon, you could expand or shrink the view of 3D Layout by holding down the mouse. Generally speaking, you could find objects soon by this tool when editing unknown maps.
 
-![assets/en_4_4.png](assets/en_4_4.png) and ![assets/en_4_5.png](assets/en_4_5.png) ：If you feel the default gridding is in the way of mapping, you could use them to show or hide the gridding of Virtools.
+![assets/en_4_4.png](assets/en_4_4.png) and ![assets/en_4_5.png](assets/en_4_5.png) ： If you feel the default gridding is annoying, you could click them to show or hide the gridding of Virtools.
 
-![assets/en_4_6.png](assets/en_4_6.png) ：Coordinates, it represents the three vertical directions in the virtual space，so it is the basis of object-locating. 
+![assets/en_4_6.png](assets/en_4_6.png) : Coordinates. it represents the three vertical directions in the virtual space, so it is the basis of object-locating. 
 
-![assets/en_4_7.png](assets/en_4_7.png) ：When selecting this icon, you could move the view by dragging the mouse.
+![assets/en_4_7.png](assets/en_4_7.png) : When selecting this icon, you could move the viewport by dragging your mouse.
 
-![assets/en_4_8.png](assets/en_4_8.png) ：Adjust View by Surround: When you select nothing, you could surround view with the center of the virtual world. This adjustment is not commonly used, because the camera will run wild. You could select one or several objects and drag the mouse, then, the camera will surround your selection. Try holding down ![assets/en_4_9.png](assets/en_4_9.png) , and you will see three selections: ![assets/en_4_10.png](assets/en_4_10.png) Drag the mouse on ![assets/en_4_11.png](assets/en_4_11.png) and loosen, ![assets/en_4_12.png](assets/en_4_12.png)  become ![assets/en_4_13.png](assets/en_4_13.png) . Then you could use it to rotate the camera’s direction directly.
+![assets/en_4_8.png](assets/en_4_8.png) : Adjust View by Revolving around Objects: When nothing is selected, you could revolve the viewport around the center of the virtual world. Therefore you need to select something at the center of the view at first to prevent the camera from running wild. You could select one or several objects and drag the mouse, then, the camera will surround your selection. Try holding down ![assets/en_4_9.png](assets/en_4_9.png) , and you will see three selections: ![assets/en_4_10.png](assets/en_4_10.png) Drag the mouse on ![assets/en_4_11.png](assets/en_4_11.png) and loosen, ![assets/en_4_12.png](assets/en_4_12.png)  become ![assets/en_4_13.png](assets/en_4_13.png) . Then you could use it to rotate the camera’s direction directly.
 
-![assets/en_4_14.png](assets/en_4_14.png) ：Forward and Backward Moving View: Like ![assets/en_4_7.png](assets/en_4_7.png), but if you holding down the mouse and change it to ![assets/en_4_15.png](assets/en_4_15.png) , you will move the view to just enough space for the selected object(s) after selecting object(s) and click. (We'll learn how to select objects next). This tool is useful.
+![assets/en_4_14.png](assets/en_4_14.png) : Forward and Backward Moving: Like ![assets/en_4_7.png](assets/en_4_7.png), but if you holding down the mouse and change it to ![assets/en_4_15.png](assets/en_4_15.png) , when you click it, the view will be moved to just enough space for the selected object(s) after selecting object(s) and click. (We'll learn how to select objects next). This tool is useful.
 
-![assets/en_4_16.png](assets/en_4_16.png) ：Select Object(s): Click object to select one object and drag mouse to select all objects in the selected area. You could hold down the key ”Ctrl” and click objects to select several specified objects. 
+![assets/en_4_16.png](assets/en_4_16.png) : Select Object(s): Click to select one object and drag mouse to select all objects in the selected area. You could hold down the key ”Ctrl” and click objects to select several specified objects. 
 
-You should keep the mouse on the selected object(s) to use object-operating tools, if not, it will break your selection, even lead to some false operations. Suggest you click ![assets/en_4_17.png](assets/en_4_17.png) to lock your selection, and you could click any location of 3D Layout to operate selected object(s).
+You should keep the mouse on the selected object(s) to use object-operating tools, if not, it will break your selection, sometimes lead to some wrong operations. It's suggested you click ![assets/en_4_17.png](assets/en_4_17.png) to lock your selection, and you could click any place in 3D Layout to operate on selected object(s).
 
-By the way, when you want to drag the mouse to select objects, you need to understand the following thing:
+By the way, when you want to drag the mouse to select objects, you need to understand the following things:
 
-![assets/en_4_18.png](assets/en_4_18.png) means that the selection box can select any object which has involved a part of the selection box, so the selection is easy to cause mistake choice. Therefore, suggest you click it and change it to ![assets/en_4_19.png](assets/en_4_19.png) .Then, only the object(s) completely involved in the selection box can be selected. You could click ![assets/en_4_20.png](assets/en_4_20.png) after selection to check if there exists a mistake choice.
-![assets/en_4_21.png](assets/en_4_21.png) ：Move Object(s): After selecting object(s), you could select a coordinate or a flat considered by two coordinates. Then you could move selected object(s) based on the selected coordinate or flat. Such as the following picture, after selecting flat Z+X, you can only move selected object(s) on the flat Z+X, and the objects cannot be moved on coordinate Y.
+![assets/en_4_18.png](assets/en_4_18.png) means that the selection box can select any object which is in a part of the selection box, so this can cause mistakes easily. Therefore, it's suggested you click it and change it to ![assets/en_4_19.png](assets/en_4_19.png) . Then, only the object(s) completely in the selection box can be selected. You could click ![assets/en_4_20.png](assets/en_4_20.png) after selection to check if there exists a mistake choice.
+![assets/en_4_21.png](assets/en_4_21.png) : Move Object(s): After selecting object(s), you could select a coordinate or a plane composed with two coordinates. Then you could move selected object(s) based on the selected coordinate or flat. Such as the following picture, after selecting flat Z+X, you can only move selected object(s) on the plane Z+X, and the objects cannot be moved on coordinate Y.
 
 ![assets/en_4_22.png](assets/en_4_22.png)
 
-![assets/en_4_23.png](assets/en_4_23.png) ：Rotate Object(s): Like moving object(s), You could select basic coordinate or flat to rotate. However, it is a bit hard to determine the selected basis. In fact, object(s) rotating is not commonly used, later, we will learn how to rotate an object accurately by adjusting the object setup. 
+![assets/en_4_23.png](assets/en_4_23.png) : Rotate Object(s): Like moving object(s), You could select one or two axes to rotate. However, it is a bit difficuly to determine. In fact, object(s) rotating is not commonly used, later, we will learn how to rotate an object accurately by adjusting the object setup. 
 
-![assets/en_4_24.png](assets/en_4_24.png) ：Expand or Shrink Object(s). This tool is not commonly used in Ballance mapping, and using it may contribute to some problems. 
+![assets/en_4_24.png](assets/en_4_24.png) : Expand or Shrink Object(s). This tool is not commonly used in Ballance mapping, and using it may cause some problems. 
 
-![assets/en_4_25.png](assets/en_4_25.png) ：Place a point light (like a light bulb) in front of the view. You could use it to light the map. After all, point lights aren’t the inherent things in the original maps, and a map included point lights may cause some bad-visual influence. Therefore, you should delete point lights after mapping. (The point light is only one kind of lights, we will learn more about lights in the future) 
+![assets/en_4_25.png](assets/en_4_25.png) : Place a point light (like a light bulb) in front of the view. You could use it to light the map. After all, point lights aren’t the inherent things in the original maps, and a map included point lights may cause some bad-visual influence. Therefore, you should delete point lights after mapping. (The point light is only one kind of lights, we will learn more about lights in the future) 
 
 ## Camera View
 
@@ -128,4 +128,4 @@ You could learn how to adjust the camera view in this section. You could select 
 The default view is Perspective View, which is the most common view of maps.
 
 ---
-Translating...
+Still waiting to be translated ...
