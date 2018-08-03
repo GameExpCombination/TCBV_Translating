@@ -4,7 +4,7 @@ Textbook of Changing Ballance by Virtools (1)
 
 ## Foreword
 
-TCBV can be acknowledged as a set of textbooks, which could teach Ballance players to change Ballance maps or configurations by Virtools. TCBV based on wide knowledge of using Virtools and appropriate distribution, is suitable for cartographers at different stages.
+TCBV can be understood as a set of textbooks, which could teach Ballance players to change Ballance maps or configurations by Virtools. TCBV based on wide knowledge of using Virtools and appropriate distribution, is suitable for cartographers at different stages.
 
 ## Book Foreword
 
@@ -22,6 +22,7 @@ Based on tutorials by:
 Translated by:
 * BallanceBug
 * GE_Fang
+* Tad_William
 
 *(Translations may not be 100% accurate!)*
 
