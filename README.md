@@ -1,0 +1,5 @@
+# TCBV_Translating
+
+本项目将把TCBV的翻译进度张贴出来，您也可以在这里查看在线版的TCBV。
+
+TCBV是一本以教授您如何使用Virtools等软件为Ballance制作自制地图的教程。
