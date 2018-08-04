@@ -83,7 +83,7 @@ We will use the changed interface on section 2 to introduce the details of this 
 
 ![assets/en_4_1.png](assets/en_4_1.png)
 
-Emmm … why is it nothing at all! But it isn’t a mistake. When opening Virtools every time, your location will be set to the center of the virtual world in 3D Layout. However, not all the maps are located in the center. To find objects, you need to have a series of location-change operations. The icons on the left could be understood as a toolbar. Let’s analyze the usa of some common icons.
+Emmm … why is it nothing at all! But it isn’t a mistake. When opening Virtools every time, your location will be set to the center of the virtual world in 3D Layout. However, not all the maps are located in the center. To find objects, you need to have a series of location-change operations. The icons on the left could be understood as a toolbar. Let’s analyze the usages of some common icons.
 
 ![assets/en_4_2.png](assets/en_4_2.png)
 
@@ -99,7 +99,7 @@ The following is a detailed description of some icons:
 
 ![assets/en_4_8.png](assets/en_4_8.png) : Adjust View by Revolving around Objects: When nothing is selected, you could revolve the viewport around the center of the virtual world. Therefore you need to select something at the center of the view at first to prevent the camera from running wild. You could select one or several objects and drag the mouse, then, the camera will surround your selection. Try holding down ![assets/en_4_9.png](assets/en_4_9.png) , and you will see three selections: ![assets/en_4_10.png](assets/en_4_10.png) Drag the mouse on ![assets/en_4_11.png](assets/en_4_11.png) and loosen, ![assets/en_4_12.png](assets/en_4_12.png)  become ![assets/en_4_13.png](assets/en_4_13.png) . Then you could use it to rotate the camera’s direction directly.
 
-![assets/en_4_14.png](assets/en_4_14.png) : Forward and Backward Moving: Like ![assets/en_4_7.png](assets/en_4_7.png), but if you holding down the mouse and change it to ![assets/en_4_15.png](assets/en_4_15.png) , when you click it, the view will be moved to just enough space for the selected object(s) after selecting object(s) and click. (We'll learn how to select objects next). This tool is useful.
+![assets/en_4_14.png](assets/en_4_14.png) : Forward and Backward Moving: Like ![assets/en_4_3.png](assets/en_4_3.png), but if you holding down the mouse and change it to ![assets/en_4_15.png](assets/en_4_15.png) , when you click it, the view will be moved to just enough space for the selected object(s) after selecting object(s) and click. (We'll learn how to select objects next). This tool is useful.
 
 ![assets/en_4_16.png](assets/en_4_16.png) : Select Object(s): Click to select one object and drag mouse to select all objects in the selected area. You could hold down the key ”Ctrl” and click objects to select several specified objects. 
 
@@ -108,6 +108,7 @@ You should keep the mouse on the selected object(s) to use object-operating tool
 By the way, when you want to drag the mouse to select objects, you need to understand the following things:
 
 ![assets/en_4_18.png](assets/en_4_18.png) means that the selection box can select any object which is in a part of the selection box, so this can cause mistakes easily. Therefore, it's suggested you click it and change it to ![assets/en_4_19.png](assets/en_4_19.png) . Then, only the object(s) completely in the selection box can be selected. You could click ![assets/en_4_20.png](assets/en_4_20.png) after selection to check if there exists a mistake choice.
+
 ![assets/en_4_21.png](assets/en_4_21.png) : Move Object(s): After selecting object(s), you could select a coordinate or a plane composed with two coordinates. Then you could move selected object(s) based on the selected coordinate or flat. Such as the following picture, after selecting flat Z+X, you can only move selected object(s) on the plane Z+X, and the objects cannot be moved on coordinate Y.
 
 ![assets/en_4_22.png](assets/en_4_22.png)
