@@ -28,14 +28,14 @@ Translated by:
 
 ## Content
 
-* [Registration in Virtools](##Registration)
-* [User Interface](##User Interface)
-* [Importing/Exporting the Map File](##Importing/Exporting the Map File)
-* [Some Basic Operations](##Some Basic Operations)
-* [Camera View](##Camera View)
-* [A Brief Summary of Objects](##A Brief Summary of Objects)
+* [Registration in Virtools](#1)
+* [User Interface](#2)
+* [Importing/Exporting the Map File](#3)
+* [Some Basic Operations](#4)
+* [Camera View](#5)
+* [A Brief Summary of Objects](#6)
 
-## Registration
+<h2 id="1">Registration</h2>
 
 Of all the versions of Virtools™ that are currently available, only two versions, 3.0 and 3.5, can be used to edit ballance maps. So please check you version first. 
 
@@ -43,7 +43,7 @@ A file named “devr.exe” can be found in the folder that virtools is installe
 
 Two options can be found when you are registering. Choose the second option **“specify the licence file”** , click “next”, then select the license file. The license file is included in the folder in which virtools is installed. After that, click “Next”, and the registration is finished. 
 
-## User Interface
+<h2 id="2">User Interface</h2>
 
 When you want to learn about editing the maps in Ballance by using Virtools, the first thing you need to get used to is the user interface of virtools. We'll use the interface of Virtools 3.0 as an example to analyze for you. (And we'll abbreviate “Virtools” to “VT” in later chapters)
 
@@ -53,7 +53,7 @@ The frame of 3D Layout might be too small to use when you first open Virtools, s
 
 ![assets/en_2_2.png](assets/en_2_2.png)
 
-## Importing/Exporting the Map File
+<h2 id="3">Importing/Exporting the Map File</h2>
 
 It's obvious that the format of map files in Ballance is NMO, but the “Load” option only allows you to open CMO files. NMO files can also be loaded, but only as a source file to be imported. 
 
@@ -77,7 +77,7 @@ Map files can also be exported directly as the NMO format. This requires you to 
 
 Sometimes we'll encounter another kind of NMO files, which contain only a few objects. These files are neither map files nor special configuration files. These are called sources, which are useful for mapping. To import sources to your map, the method in paragraph 1 in this chapter should be used. But it's a bit difficult to learn about importing/exporting source files, therefore, it won't be talked about in details until the next textbook.
 
-## Some Basic Operations
+<h2 id="4">Some Basic Operations</h2>
 
 We will use the changed interface on section 2 to introduce the details of this section. There exists an inconvenient detail that you need to adjust the same interface every time when opening Virtools. However, it doesn’t matter mapping, we adjust interface for the convenience. Let’s see the interface which has imported a map:
 
@@ -119,7 +119,7 @@ By the way, when you want to drag the mouse to select objects, you need to under
 
 ![assets/en_4_25.png](assets/en_4_25.png) : Place a point light (like a light bulb) in front of the view. You could use it to light the map. After all, point lights aren’t the inherent things in the original maps, and a map included point lights may cause some bad-visual influence. Therefore, you should delete point lights after mapping. (The point light is only one kind of lights, we will learn more about lights in the future) 
 
-## Camera View
+<h2 id="5">Camera View</h2>
 
 We have learnt a number of the operating icons. The other icons have little influence on Ballance mapping, so we don’t have an introduction of them. If you are interested in them, you could explore them by yourself.
 
