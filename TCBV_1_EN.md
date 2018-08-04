@@ -83,7 +83,7 @@ We will use the changed interface on section 2 to introduce the details of this 
 
 ![assets/en_4_1.png](assets/en_4_1.png)
 
-Emmm … why is it nothing at all! But it isn’t a mistake. When opening Virtools every time, your location will be set to the center of the virtual world in 3D Layout. However, not all the maps are located in the center. To find objects, you need to have a series of location-change operations. The icons on the left could be understood as a toolbar. Let’s analyze the usages of some common icons.
+Emmm … why is it nothing at all! But it isn’t a mistake. When opening Virtools every time, your location will be set to the center of the virtual world in 3D Layout. However, not all the maps are located in the center. To find objects, you need to have a series of location-change operations. The icons on the left could be understood as a toolbar. Let’s analyze the use of some common icons.
 
 ![assets/en_4_2.png](assets/en_4_2.png)
 
