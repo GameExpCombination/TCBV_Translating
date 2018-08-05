@@ -1,28 +1,26 @@
-# TCBV1
+# TCBV
 
-Textbook of Changing Ballance by Virtools (1)
+(Textbook of Changing Ballance by Virtools)
 
 ## Foreword
 
-TCBV can be understood as a set of textbooks, which could teach Ballance players to change Ballance maps or configurations by Virtools. TCBV based on wide knowledge of using Virtools and appropriate distribution, is suitable for cartographers at different stages.
+TCBV can be understood as a set of textbooks, which could teach Ballance players to change Ballance maps or configurations by Virtools. TCBV based on wide knowledge of using Virtools and appropriate distribution, is suitable for cartographers at different stages. You could understand Ballance mapping after learning this textbook.
 
-## Book Foreword
-
-This book is mainly about basic understanding of operating Ballance maps by Virtools. This book needs cartographers to understand Ballance mapping and get some useful idea.
+## Relevant People
 
 Written by:
-* GE_Fang 
+* GE Fang 
 * BallanceBug
 
 Based on tutorials by:
-* Nice_Melodies
+* Nice Melodies
 * jxpxxzj
-* Chris_Xiong
+* Chris Xiong
 
 Translated by:
 * BallanceBug
-* GE_Fang
-* Tad_William
+* GE Fang
+* Tad William
 
 *(Translations may not be 100% accurate!)*
 
@@ -34,8 +32,14 @@ Translated by:
 * [Some Basic Operations](#4)
 * [Camera View](#5)
 * [A Brief Summary of Objects](#6)
+* [Sending Objects to Groups](#7)
+* [Exchanging the Sector Groups](#8)
+* [A Brief Summary of Meshes](#9)
+* [Materials and Textures](#10)
+* [Importing/Exporting the Source File](#11)
+* [An Introduction of Lights](#12)
 
-<h2 id="1">Registration</h2>
+<h2 id="1">Registration in Virtools</h2>
 
 Of all the versions of Virtools™ that are currently available, only two versions, 3.0 and 3.5, can be used to edit ballance maps. So please check you version first. 
 
