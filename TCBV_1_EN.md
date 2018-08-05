@@ -109,13 +109,13 @@ By the way, when you want to drag the mouse to select objects, you need to under
 
 ![assets/en_4_18.png](assets/en_4_18.png) means that the selection box can select any object which is in a part of the selection box, so this can cause mistakes easily. Therefore, it's suggested you click it and change it to ![assets/en_4_19.png](assets/en_4_19.png) . Then, only the object(s) completely in the selection box can be selected. You could click ![assets/en_4_20.png](assets/en_4_20.png) after selection to check if there exists a mistake choice.
 
-![assets/en_4_21.png](assets/en_4_21.png) : Move Object(s): After selecting object(s), you could select a coordinate or a plane composed with two coordinates. Then you could move selected object(s) based on the selected coordinate or flat. Such as the following picture, after selecting flat Z+X, you can only move selected object(s) on the plane Z+X, and the objects cannot be moved on coordinate Y.
+![assets/en_4_21.png](assets/en_4_21.png) : Moving Object(s): After selecting object(s), you could select a coordinate or a plane composed with two coordinates. Then you could move selected object(s) based on the selected coordinate or flat. Such as the following picture, after selecting flat Z+X, you can only move selected object(s) on the plane Z+X, and the objects cannot be moved on coordinate Y.
 
 ![assets/en_4_22.png](assets/en_4_22.png)
 
-![assets/en_4_23.png](assets/en_4_23.png) : Rotate Object(s): Like moving object(s), You could select one or two axes to rotate. However, it is a bit difficuly to determine. In fact, object(s) rotating is not commonly used, later, we will learn how to rotate an object accurately by adjusting the object setup. 
+![assets/en_4_23.png](assets/en_4_23.png) : Rotating Object(s): Like moving object(s), You could select one or two axes to rotate. However, it is a bit difficult to determine. In fact, object(s) rotating is not commonly used, later, we will learn how to rotate an object accurately by adjusting the object setup. 
 
-![assets/en_4_24.png](assets/en_4_24.png) : Expand or Shrink Object(s). This tool is not commonly used in Ballance mapping, and using it may cause some problems. 
+![assets/en_4_24.png](assets/en_4_24.png) : Expanding or Shrinking Object(s). This tool is not commonly used in Ballance mapping, and using it may cause some problems. 
 
 ![assets/en_4_25.png](assets/en_4_25.png) : Place a point light (like a light bulb) in front of the view. You could use it to light the map. After all, point lights aren’t the inherent things in the original maps, and a map included point lights may cause some bad-visual influence. Therefore, you should delete point lights after mapping. (The point light is only one kind of lights, we will learn more about lights in the future) 
 
