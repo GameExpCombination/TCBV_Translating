@@ -130,8 +130,12 @@ We have learnt a number of the operating icons. The other icons have little infl
 You could learn how to adjust the camera view in this section. You could select camera mode by right-click the 3D Layout. You could also find the mode” * View” on the 3D Layout and click to select the camera mode. It’s shown in the picture below:
 
 ![assets/en_5_1.png](assets/en_5_1.png)
- 
-The default view is Perspective View, which is the most common view of maps.
+
+You could have different operations with different view. The following is an introduction to them.  
+
+The default view is Perspective View, which is the most common view of maps. There exists a vanishing point in Perspective View, so Perspective View could reflect the rule about far-small and near-large. Therefore, if we are in the scene, we could see the effect of Perspective View. Perspective View is also used in art.  
+
+Top View, Front View and Right View are all projected from a direction. Using them, we can also accurately move the object(s) based on a specified plane or a specified coordinate axis.
 
 ---
 Still waiting to be translated ...
