@@ -135,7 +135,7 @@ You could have different operations with different view. The following is an int
 
 The default view is Perspective View, which is the most common view of maps. There exists a vanishing point in Perspective View, so Perspective View could reflect the rule about far-small and near-large. Therefore, if we are in the scene, we could see the effect of Perspective View. Perspective View is also used in art.  
 
-Top View, Front View and Right View are all projected from a direction. Using them, we can also accurately move the object(s) based on a specified plane or a specified coordinate axis.
+Top View, Front View and Right View are all projected from one direction. With them, we can also accurately move the object(s) based on a specified plane or a specified coordinate axis.
 
 ---
 Still waiting to be translated ...
