@@ -1,6 +1,7 @@
 # TCBV
 
 (Textbook of Changing Ballance by Virtools)
+
 (Note that: the name actually means to be Textbook of Modifying Ballance by Virtools, but due to some mistakes, it's now called TCBV)
 
 ## Foreword
@@ -137,6 +138,8 @@ You could have different operations with different viewports. The following is a
 The default view is Perspective View, which is the most common view of maps. There exists a vanishing point in Perspective View, so Perspective View could reflect the rule about far-small and near-large. Therefore, if we are in the scene, we could see the effects of Perspective View. Perspective View is also used in art.  
 
 Top View, Front View and Right View are all projected from one direction. With them, we can also move the object(s) accurately based on a specified plane or a specified coordinate axis.
+
+When the viewport is changed by using ![assets/en_4_9.png](assets/en_4_9.png) or other tools in Top/Front/Right View, it changes to Orthographic View. Each line in the direction of axes is parallel to others in this view, so it's a good way to check the position of objects using this. When you first loaded the file and nothing that have to do with the viewport is done, this view is synchronous to the Top View.
 
 ---
 Still waiting to be translated ...
