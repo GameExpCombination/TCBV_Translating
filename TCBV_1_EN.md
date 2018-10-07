@@ -1,6 +1,7 @@
 # TCBV
 
 (Textbook of Changing Ballance by Virtools)
+(Note that: the name actually means to be Textbook of Modifying Ballance by Virtools, but due to some mistakes, it's now called TCBV)
 
 ## Foreword
 
