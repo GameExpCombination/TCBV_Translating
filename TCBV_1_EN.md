@@ -117,25 +117,25 @@ By the way, when you want to drag the mouse to select objects, you need to under
 
 ![assets/en_4_22.png](assets/en_4_22.png)
 
-![assets/en_4_23.png](assets/en_4_23.png) : Rotating Object(s): Like moving object(s), You could select one or two axes to rotate. However, it is a bit difficult to determine. In fact, object(s) rotating is not commonly used, later, we will learn how to rotate an object accurately by adjusting the object setup. 
+![assets/en_4_23.png](assets/en_4_23.png) : Rotating Object(s): Like moving object(s), You could select one or two axes to rotate. However, it is a bit difficult to determine. In fact, object(s) rotating is not commonly used, and later, we will learn how to rotate an object accurately by adjusting the object setup. 
 
-![assets/en_4_24.png](assets/en_4_24.png) : Expanding or Shrinking Object(s). This tool is not commonly used in Ballance mapping, and using it may cause some problems. 
+![assets/en_4_24.png](assets/en_4_24.png) : Expanding or Shrinking Object(s). This tool is not commonly used in Ballance mapping, and using it may lead to some problems. 
 
 ![assets/en_4_25.png](assets/en_4_25.png) : Place a point light (like a light bulb) in front of the view. You could use it to light the map. After all, point lights aren’t the inherent things in the original maps, and a map included point lights may cause some bad-visual influence. Therefore, you should delete point lights after mapping. (The point light is only one kind of lights, we will learn more about lights in the future) 
 
 <h2 id="5">Camera View</h2>
 
-We have learnt a number of the operating icons. The other icons have little influence on Ballance mapping, so we don’t have an introduction of them. If you are interested in them, you could explore them by yourself.
+We have learnt a number of the operating icons till now. Since the other icons have little influence on Ballance mapping, so we won't describe their uses here. If you are interested in them, you could explore them by yourself.
 
-You could learn how to adjust the camera view in this section. You could select camera mode by right-click the 3D Layout. You could also find the mode” * View” on the 3D Layout and click to select the camera mode. It’s shown in the picture below:
+You could learn how to adjust the camera view in this section. You could select camera mode by right-clicking the 3D Layout. You could also find the mode” * View” on the 3D Layout and click to select the camera mode. It’s shown in the picture below:
 
 ![assets/en_5_1.png](assets/en_5_1.png)
 
-You could have different operations with different view. The following is an introduction to them.  
+You could have different operations with different viewports. The following is a description to them.  
 
-The default view is Perspective View, which is the most common view of maps. There exists a vanishing point in Perspective View, so Perspective View could reflect the rule about far-small and near-large. Therefore, if we are in the scene, we could see the effect of Perspective View. Perspective View is also used in art.  
+The default view is Perspective View, which is the most common view of maps. There exists a vanishing point in Perspective View, so Perspective View could reflect the rule about far-small and near-large. Therefore, if we are in the scene, we could see the effects of Perspective View. Perspective View is also used in art.  
 
-Top View, Front View and Right View are all projected from one direction. With them, we can also accurately move the object(s) based on a specified plane or a specified coordinate axis.
+Top View, Front View and Right View are all projected from one direction. With them, we can also move the object(s) accurately based on a specified plane or a specified coordinate axis.
 
 ---
 Still waiting to be translated ...
